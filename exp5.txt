@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 good morning
+=======
+good evening
+welcome to git lab
+>>>>>>> 661c7087bfc4313710d67d23110e892c9a47b206
